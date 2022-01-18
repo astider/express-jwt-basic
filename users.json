@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Somchai",
+    "age": 11,
+    "username": "somza",
+    "password": "lnwsomchai"
+  },
+  {
+    "id": 2,
+    "name": "Prayut",
+    "age": 19,
+    "username": "pstop",
+    "password": "najanaja"
+  },
+  {
+    "id": 3,
+    "name": "Benza",
+    "age": 26,
+    "username": "smartcto",
+    "password": "NjFiMmY2M2I0ODRmODkwYTRmYzYwZjY0"
+  }
+]
